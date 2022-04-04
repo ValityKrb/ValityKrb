@@ -52,7 +52,7 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 </p>
-👉 Operating Systems
+ ### 👉 Operating Systems
  
 <p align="center">
   &emsp;
