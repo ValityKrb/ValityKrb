@@ -1,12 +1,17 @@
 <h1 align="center">Hey, i'm Justin Walter <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-
+<br>
+	
+![](https://komarev.com/ghpvc/?username=valitykrb&style=flat-square&label=PROFILE+VIEWS)
+	
+</p>
+	
 ## :sassy_man:  About me
 - :school: I am an ongoing Trainee IT Assistant @Technische-Berufliche-Schule 1 in Bochum
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`
+- 📚: Currently learning  `PHP`
 
 <br>
 
