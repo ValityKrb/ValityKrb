@@ -11,7 +11,7 @@
 - :school: I am an ongoing Trainee IT Assistant @Technische-Berufliche-Schule 1 in Bochum
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- 📚: Currently learning new scripting language;  `PHP/Laravel`
+- 📚: Currently learning new scripting language;  `PHP with the Laravel Framework`
 
 <br>
 
